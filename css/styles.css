@@ -498,10 +498,6 @@ section {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .steps-container {
-    grid-template-columns: repeat(4, 1fr);
-  }
-
   .expansion-features {
     grid-template-columns: repeat(2, 1fr);
   }
