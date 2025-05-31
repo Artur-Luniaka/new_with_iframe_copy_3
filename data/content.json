@@ -1,0 +1,337 @@
+{
+  "header": {
+    "logo": "domain.com",
+    "navigation": [
+      {
+        "text": "Hoops Hub",
+        "url": "./"
+      },
+      {
+        "text": "How to Play",
+        "url": "#how-to-play"
+      },
+      {
+        "text": "College Hoops News",
+        "url": "./air-traffic-news.html"
+      },
+      {
+        "text": "Contact Coaches",
+        "url": "./contact-tower.html"
+      },
+      {
+        "text": "Game Rules",
+        "url": "./air-disclaimer.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "College Hoops Manager",
+    "description": "Recruit talent, strategize plays, and lead your team to championship glory! Build your college basketball dynasty.",
+    "backgroundImage": "images/hero-bg.jpg",
+    "highlights": [
+      "Real-time Player Management",
+      "Multiple Team Strategies",
+      "Dynamic Player Development",
+      "Championship Challenges"
+    ]
+  },
+  "features": {
+    "title": "Game Features",
+    "subtitle": "Your Path to Basketball Management Excellence",
+    "cards": [
+      {
+        "title": "Team Coaching",
+        "description": "Master the court with our advanced coaching system. Guide your players through practices and intense matchups.",
+        "image": "images/img-1.png",
+        "highlights": [
+          "Real-time Play Calling",
+          "Player Stamina Monitoring",
+          "Timeout Strategies"
+        ]
+      },
+      {
+        "title": "Recruitment & Scouting",
+        "description": "Find the next college basketball superstars. Recruit top talent and build a powerhouse roster.",
+        "image": "images/img-2.png",
+        "highlights": [
+          "Player Potential",
+          "Scouting Reports",
+          "Transfer Portal Management"
+        ]
+      },
+      {
+        "title": "Game Day Management",
+        "description": "Manage diverse player skills and optimize your team's lineup for maximum performance.",
+        "image": "images/img-3.png",
+        "highlights": [
+          "Player Rotations",
+          "Injury Management",
+          "Halftime Adjustments"
+        ]
+      },
+      {
+        "title": "University Development",
+        "description": "Provide top-tier facilities that keep your program running smoothly and athletes thriving.",
+        "image": "images/img-4.png",
+        "highlights": [
+          "Arena Upgrades",
+          "Training Facilities",
+          "Academic Support"
+        ]
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "How to Play",
+    "subtitle": "Your Playbook to Success",
+    "steps": [
+      {
+        "title": "Start Your Season",
+        "description": "Begin with a budding college team and master the basics of basketball management.",
+        "icon": "🤾🏻‍♂️",
+        "tips": [
+          "Choose Your University",
+          "Draft Essential Players",
+          "Hire Key Staff"
+        ]
+      },
+      {
+        "title": "Expand Your Program",
+        "description": "Grow your university's basketball program with new facilities and improved training.",
+        "icon": "🏀",
+        "tips": [
+          "Add New Courts",
+          "Expand Locker Rooms",
+          "Upgrade Coaching Staff"
+        ]
+      },
+      {
+        "title": "Optimize Performance",
+        "description": "Fine-tune your team for maximum efficiency and championship wins.",
+        "icon": "📈",
+        "tips": [
+          "Monitor Player Stats",
+          "Balance Team Chemistry",
+          "Improve Strategies"
+        ]
+      },
+      {
+        "title": "Go National",
+        "description": "Transform your team into a national basketball powerhouse.",
+        "icon": "🌍",
+        "tips": [
+          "Compete in National Tournaments",
+          "Gain National Recognition",
+          "Recruit International Talent"
+        ]
+      }
+    ]
+  },
+  "reviews": {
+    "title": "Player Reviews",
+    "subtitle": "What Our Community Says About College Hoops Manager",
+    "items": [
+      {
+        "author": "Marcus \"The Coach\" Johnson",
+        "role": "Basketball Fanatic",
+        "avatar": "images/img-5.png",
+        "rating": 5,
+        "text": "The most realistic college basketball management game I've ever played! The attention to detail in recruiting and game strategy is impressive.",
+        "date": "March 15, 2024",
+        "verified": true
+      },
+      {
+        "author": "Chloe \"Hoops\" Davis",
+        "role": "Strategy Gamer",
+        "avatar": "images/img-6.png",
+        "rating": 5,
+        "text": "Addictive gameplay with perfect balance between challenge and fun. I've spent countless hours building my college hoops empire!",
+        "date": "March 12, 2024",
+        "verified": true
+      },
+      {
+        "author": "Ethan \"Rookie\" White",
+        "role": "Casual Player",
+        "avatar": "images/img-1.png",
+        "rating": 4,
+        "text": "Great game for both beginners and experienced players. The tutorial is helpful, and the progression system keeps me engaged.",
+        "date": "March 10, 2024",
+        "verified": true
+      },
+      {
+        "author": "Olivia \"GM\" Miller",
+        "role": "College Athletic Director",
+        "avatar": "images/img-2.png",
+        "rating": 5,
+        "text": "As someone who works in college sports, I'm impressed by the realistic aspects of team management. The economic system is well thought out.",
+        "date": "March 8, 2024",
+        "verified": true
+      }
+    ],
+    "stats": [
+      {
+        "number": "4.8",
+        "label": "Average Rating"
+      },
+      {
+        "number": "50K+",
+        "label": "Active Players"
+      },
+      {
+        "number": "1M+",
+        "label": "Games Managed"
+      }
+    ]
+  },
+  "businessExpansion": {
+    "title": "Program Expansion",
+    "description": "Take your college hoops program to new heights",
+    "subtitle": "Strategic Growth Opportunities Await",
+    "features": [
+      {
+        "title": "National Tournament",
+        "description": "Compete against the best teams in the country for ultimate glory",
+        "requirements": [
+          "Top Conference Ranking",
+          "Elite Player Talent",
+          "Strong Fan Support"
+        ]
+      },
+      {
+        "title": "Player Development Hub",
+        "description": "Establish a powerful training and development network for your athletes",
+        "requirements": [
+          "Advanced Training Facilities",
+          "Dedicated Coaching Staff",
+          "Sports Science Lab"
+        ]
+      },
+      {
+        "title": "Alumni Relations",
+        "description": "Elevate the fan and alumni experience",
+        "requirements": [
+          "VIP Suites",
+          "Exclusive Fan Events",
+          "Community Outreach Programs"
+        ]
+      },
+      {
+        "title": "Recruiting Innovation",
+        "description": "Implement cutting-edge recruiting technology",
+        "requirements": [
+          "Advanced Scouting Systems",
+          "AI-Driven Player Analysis",
+          "Digital Campus Tours"
+        ]
+      }
+    ],
+    "image": "images/expansion.jpg"
+  },
+  "footer": {
+    "legal": {
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "./privacy-terms.html"
+        },
+        {
+          "text": "Cookie Policy",
+          "url": "./cookie-terms.html"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "email": "support@domain.com",
+      "address": "Toronto City Hall, 100 Queen St W, Toronto, ON M5H 2N2, Canada",
+      "phone": "+1 416-392-2489"
+    },
+    "copyright": "© 2025 Domain.com | All rights reserved."
+  },
+  "airTrafficNews": {
+    "pageTitle": "College Hoops News",
+    "description": "Latest updates from the world of college basketball, game updates, and team development news",
+    "news": [
+      {
+        "title": "New Strategy Playbook Features",
+        "date": "2024-03-20",
+        "image": "images/img-3.png",
+        "summary": "Introducing advanced playbook management with player tendency analytics and real-time game adjustments.",
+        "content": "We're excited to announce the latest update to College Hoops Manager! This update brings powerful new strategy playbook features that will revolutionize how you plan your games and optimize your team's performance.",
+        "highlights": [
+          "Real-time Player Tendency Visualization",
+          "Smart Play Call Suggestions",
+          "Team Chemistry Analytics",
+          "Enhanced Coaching Staff Management"
+        ]
+      },
+      {
+        "title": "NIL Deals Take Center Court",
+        "date": "2024-03-18",
+        "image": "images/img-4.png",
+        "summary": "Major college athletes commit to Name, Image, and Likeness (NIL) initiatives, marking a significant step towards player empowerment.",
+        "content": "The college basketball landscape is seeing substantial progress in player rights. Leading athletes have announced ambitious plans to leverage their Name, Image, and Likeness (NIL) over the next decade.",
+        "highlights": [
+          "New Player Endorsement Opportunities",
+          "Sustainable Athlete Partnerships",
+          "Recruiting Impact of NIL",
+          "Fair Play Initiatives"
+        ]
+      },
+      {
+        "title": "AI Revolution in Scouting",
+        "date": "2024-03-15",
+        "image": "images/img-5.png",
+        "summary": "Artificial Intelligence transforms college basketball scouting operations with smart player analysis and predictive performance.",
+        "content": "The integration of AI in college basketball scouting is setting new standards for efficiency and reliability. Smart systems are now capable of optimizing recruiting targets and predicting player development before they commit.",
+        "highlights": [
+          "AI-Powered Player Evaluation Systems",
+          "Predictive Performance Analytics",
+          "Recruitment Route Optimization",
+          "Real-time Draft Tracking Improvements"
+        ]
+      },
+      {
+        "title": "National Coaches Summit 2024",
+        "date": "2024-03-12",
+        "image": "images/img-6.png",
+        "summary": "Industry leaders gather to discuss the future of college basketball and innovative team management solutions.",
+        "content": "The National Coaches Summit 2024 brought together experts from around the world to share insights on emerging trends and technologies in college basketball management and team operations.",
+        "highlights": [
+          "Future of Coaching Automation",
+          "Sustainable Program Operations",
+          "Digital Transformation in Sports",
+          "Fan Experience Innovations"
+        ]
+      }
+    ],
+    "featuredArticle": {
+      "title": "The Future of College Hoops Management",
+      "subtitle": "Exploring innovations that will shape the next decade of college basketball",
+      "image": "images/img-1.png",
+      "sections": [
+        {
+          "title": "Smart Arena Infrastructure",
+          "content": "The integration of IoT sensors and AI-driven systems is revolutionizing how college basketball programs monitor and maintain their arenas and training facilities. From automated practice drills to predictive maintenance of courts, smart technology is making operations more efficient and reliable.",
+          "icon": "🏀"
+        },
+        {
+          "title": "Fan & Player Experience",
+          "content": "Biometric systems and mobile technology are streamlining the fan journey and enhancing player engagement. Digital twins of stadiums help optimize crowd flow and enhance game day experiences.",
+          "icon": "👥"
+        },
+        {
+          "title": "Sustainability in Sports",
+          "content": "College sports programs are leading the charge in sustainable practices with solar-powered facilities, electric team vehicles, and waste reduction programs. These initiatives are setting new standards for eco-friendly operations.",
+          "icon": "🤾🏻‍♂️"
+        },
+        {
+          "title": "Safety & Player Welfare",
+          "content": "Advanced medical technology and AI-powered monitoring systems are enhancing player safety and optimizing recovery protocols. New health screening measures are being integrated seamlessly into existing training regimens.",
+          "icon": "🛡️"
+        }
+      ],
+      "conclusion": "As we look to the future, college basketball programs are becoming more than just athletic teams - they're evolving into smart, sustainable, and player-centric organizations. The next decade will bring unprecedented changes to how we think about and manage college hoops operations."
+    }
+  }
+}
